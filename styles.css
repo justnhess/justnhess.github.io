@@ -1,11 +1,12 @@
 body {
 	font-family: Verdana, Helvetica, sans-serif;
 	font-size: 125%;
-	width: 500px;
+	width: 600px;
 	margin: 0 auto;
 	padding: 1em;
 	border: 10px solid white;
-	background-color: #3399FF
+	background-color: #3399FF;
+	background-image: url("./images/theme_ntp_background.png")
 }
 h1 {
 	margin: 0;
