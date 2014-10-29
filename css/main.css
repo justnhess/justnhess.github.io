@@ -67,7 +67,7 @@ blockquote
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 150px;
+  width: 250px;
   -webkit-border-radius: 0;
   -moz-border-radius: 0;
   border-radius: 0px;
@@ -78,12 +78,12 @@ blockquote
   text-decoration: none;}
   
 .btn:hover {
-  background: #3cb0fd;
-  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
-  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
-  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
-  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
-  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  color: #555;
+  background-image: -webkit-linear-gradient(top, #FFB100, #ffc84d);
+  background-image: -moz-linear-gradient(top, #FFB100, #ffc84d);
+  background-image: -ms-linear-gradient(top, #FFB100, #ffc84d);
+  background-image: -o-linear-gradient(top, #FFB100, #ffc84d);
+  background-image: linear-gradient(to bottom, #FFB100, #ffc84d);
   text-decoration: none;}
 
 ul
@@ -158,8 +158,8 @@ ol li
 #logo_text h1 a .logo_color
 { color: #00C6F0;}
 
-#logo_text a:hover .logo_
-{ color: #DDD;}
+#logo_text a:hover .logo_color
+{ color: #FFB100;}
 
 #logo_text h2
 { font-size: 120%;
