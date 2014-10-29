@@ -17,6 +17,9 @@ p
 img
 { border: 0;}
 
+#past #present #future
+{ margin-bottom: 5px;}
+
 h1, h2, h3, h4, h5, h6 
 { color: #362C20;
   letter-spacing: 0em;
@@ -104,7 +107,9 @@ ol li
 .left
 { float: left;
   width: auto;
-  margin-right: 10px;}
+  margin-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;}
 
 .right
 { float: right; 
@@ -126,7 +131,7 @@ ol li
   height: 186px;}
   
 #banner
-{  background: transparent url(../img/new_banner.jpg) no-repeat;
+{  background: transparent url(../img/banner.jpg) no-repeat;
   width: 860px;
   height: 180px;
   margin-bottom: 20px;
